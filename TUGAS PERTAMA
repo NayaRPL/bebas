@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T16:04:12.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HHQPvsd4fS6w2kwH_0_6" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T16:18:50.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6shCEKsvf6Kmoo7mNZ7g" version="20.4.0" type="github">
   <diagram id="EtPvJitRluHw7QxL_o8g" name="Halaman-1">
-    <mxGraphModel dx="865" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="298" dy="216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C80eqerDe1qQP9jQJTGx-39" value="Nama (500" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="C80eqerDe1qQP9jQJTGx-37">
+        <mxCell id="C80eqerDe1qQP9jQJTGx-39" value="Nama (50)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="C80eqerDe1qQP9jQJTGx-37">
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
