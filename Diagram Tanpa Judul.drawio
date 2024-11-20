@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AjRyxpdxDs6k8_3mNzoy" name="Halaman-5">
-    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
         <mxCell id="cmm_BuO-Jcv-OC136lC8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cmm_BuO-Jcv-OC136lC8-4" target="cmm_BuO-Jcv-OC136lC8-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmm_BuO-Jcv-OC136lC8-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Preprocessing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="cmm_BuO-Jcv-OC136lC8-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Preprocessing&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cmm_BuO-Jcv-OC136lC8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cmm_BuO-Jcv-OC136lC8-5" target="cmm_BuO-Jcv-OC136lC8-6" edge="1">
@@ -304,19 +304,20 @@
         <mxCell id="cmm_BuO-Jcv-OC136lC8-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Hitung Jarak dengan Jarak &lt;i&gt;Euclidien Matriks&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="280" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="haGG-Rue4fLp1LJ2NlMb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cmm_BuO-Jcv-OC136lC8-6" target="haGG-Rue4fLp1LJ2NlMb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cmm_BuO-Jcv-OC136lC8-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Klasterisasi menggunakan Algoritma &lt;i&gt;K-Means&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="380" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmm_BuO-Jcv-OC136lC8-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Selesai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="410" y="670" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cmm_BuO-Jcv-OC136lC8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="cmm_BuO-Jcv-OC136lC8-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="630" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xiwzuWoQQf0wtaVYRKOe-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Input Data&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="haGG-Rue4fLp1LJ2NlMb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="haGG-Rue4fLp1LJ2NlMb-1" target="haGG-Rue4fLp1LJ2NlMb-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="haGG-Rue4fLp1LJ2NlMb-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Evaluasi Hasil Kluster dengan&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Silhouette Score&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="200" height="60" as="geometry" />
@@ -324,45 +325,48 @@
         <mxCell id="haGG-Rue4fLp1LJ2NlMb-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Hasil Zonasi&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="360" y="580" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="haGG-Rue4fLp1LJ2NlMb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="haGG-Rue4fLp1LJ2NlMb-2" target="cmm_BuO-Jcv-OC136lC8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="xfbO98SeEjVbCmmoy5m_" name="Halaman-6">
-    <mxGraphModel dx="1600" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KElirk32WSHrBS0CxDwr-1" target="5_xeAl1YZXMgXmy-Yq4s-1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KElirk32WSHrBS0CxDwr-1" target="5_xeAl1YZXMgXmy-Yq4s-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KElirk32WSHrBS0CxDwr-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Mulai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KElirk32WSHrBS0CxDwr-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Mulai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="430" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-1" target="5_xeAl1YZXMgXmy-Yq4s-2">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-1" target="5_xeAl1YZXMgXmy-Yq4s-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menentukan Jumlah Kluster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menentukan Jumlah Kluster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-2" target="5_xeAl1YZXMgXmy-Yq4s-3">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-2" target="5_xeAl1YZXMgXmy-Yq4s-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menentukan Titik Pusat Awal Kluster (Centroid)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menentukan Titik Pusat Awal Kluster (&lt;i&gt;Centroid&lt;/i&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-3" target="5_xeAl1YZXMgXmy-Yq4s-6">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-3" target="5_xeAl1YZXMgXmy-Yq4s-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menghitung jarak dengan titik centroid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menghitung jarak dengan titik &lt;i&gt;centroid&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="300" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-6" target="5_xeAl1YZXMgXmy-Yq4s-7">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-6" target="5_xeAl1YZXMgXmy-Yq4s-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Kelompokkan Objek berdasarkan Jarak Minimum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Kelompokkan Objek berdasarkan Jarak Minimum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="400" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-7" target="5_xeAl1YZXMgXmy-Yq4s-2">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-7" target="5_xeAl1YZXMgXmy-Yq4s-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="565" />
@@ -370,19 +374,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cek Hasil Klasterisasi&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cek Hasil Klasterisasi&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="410" y="510" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Selesai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Selesai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="430" y="670" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-7" target="5_xeAl1YZXMgXmy-Yq4s-8">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5_xeAl1YZXMgXmy-Yq4s-7" target="5_xeAl1YZXMgXmy-Yq4s-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;No&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="370" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5_xeAl1YZXMgXmy-Yq4s-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Yes&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="630" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
