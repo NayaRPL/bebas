@@ -269,7 +269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AjRyxpdxDs6k8_3mNzoy" name="Halaman-5">
-    <mxGraphModel dx="3125" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,36 +314,6 @@
         </mxCell>
         <mxCell id="haGG-Rue4fLp1LJ2NlMb-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Hasil Zonasi&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="740" y="590" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZYp9UFXNi3Gcwa3cUS0Z-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1090" y="800" width="720" height="227" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1" source="pZGuR3xkbhG0G1Pz9AIr-1" target="pZGuR3xkbhG0G1Pz9AIr-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Pengumpulan Data&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1">
-          <mxGeometry x="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1" source="pZGuR3xkbhG0G1Pz9AIr-2" target="pZGuR3xkbhG0G1Pz9AIr-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Identifikasi Masalah&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1">
-          <mxGeometry width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1" source="pZGuR3xkbhG0G1Pz9AIr-3" target="pZGuR3xkbhG0G1Pz9AIr-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Implementasi Algoritma &lt;i&gt;Constraid K-Means&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1">
-          <mxGeometry x="520" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1" source="pZGuR3xkbhG0G1Pz9AIr-4" target="pZGuR3xkbhG0G1Pz9AIr-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Eksperimen&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;dan Pengujian&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1">
-          <mxGeometry x="520" y="147" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pZGuR3xkbhG0G1Pz9AIr-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Penyusunan Laporan&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZYp9UFXNi3Gcwa3cUS0Z-1">
-          <mxGeometry x="259" y="147" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZYp9UFXNi3Gcwa3cUS0Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="haGG-Rue4fLp1LJ2NlMb-2" target="cmm_BuO-Jcv-OC136lC8-8">
           <mxGeometry relative="1" as="geometry" />
