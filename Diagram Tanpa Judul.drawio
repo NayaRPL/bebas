@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="we7ifFbzLW4pDkla8Q2j" name="Halaman-4">
-    <mxGraphModel dx="1100" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,9 +266,6 @@
         </mxCell>
         <mxCell id="ioVsf-T8miS00rympYzu-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Metode Penyelesaian&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="170" y="320" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ioVsf-T8miS00rympYzu-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hasil Yang diharapkan&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Sistem zonasi yang lebih sederhana dan terstruktur dengan distribusi siswa yang lebih merata&lt;/font&gt;&lt;span style=&quot;text-indent: -21.3pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 12pt; line-height: 150%;&quot; lang=&quot;id&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-indent: -21.3pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); line-height: 150%;&quot; lang=&quot;id&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;berdasarkan pada jarak terdekat antara lokasi siswa dan sekolah dengan mempertimbangkan batasan tertentu.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin-left:21.3pt;mso-add-space:auto;&lt;br/&gt;text-indent:-21.3pt;line-height:150%;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;&lt;br/&gt;text-autospace:ideograph-numeric ideograph-other&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:150%&quot; lang=&quot;id&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#B09500;fontColor=#000000;align=left;" parent="1" vertex="1">
-          <mxGeometry x="170" y="400" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ioVsf-T8miS00rympYzu-5" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Untuk&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;mengoptimalkan sistem zonasi penerimaan peserta didik baru dengan algoritma &lt;i&gt;Constrained K-Means&lt;/i&gt; guna mengelompokkan wilayah berdasarkan jarak geografis, guna meningkatkan efisiensi dan keadilan dalam penerimaan peserta didik baru di Kabupaten Majene.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#B09500;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="220" width="280" height="80" as="geometry" />
@@ -302,6 +299,15 @@
         </mxCell>
         <mxCell id="ioVsf-T8miS00rympYzu-27" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.475;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="250" y="370" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9fk0ufSZK00JnJM_qrT7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#B09500;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9fk0ufSZK00JnJM_qrT7-4" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 15px; background-color: rgb(153, 204, 255);&quot;&gt;Hasil yang diharapkan&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9fk0ufSZK00JnJM_qrT7-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Sistem zonasi yang lebih sederhana dan terstruktur dengan distribusi siswa yang lebih merata&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent; text-indent: -21.3pt; font-size: 12pt; line-height: 24px;&quot; lang=&quot;id&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent; text-indent: -21.3pt; line-height: 18px;&quot; lang=&quot;id&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;berdasarkan pada jarak terdekat antara lokasi siswa dan sekolah dengan mempertimbangkan batasan tertentu.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="490" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
