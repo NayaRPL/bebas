@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xfbO98SeEjVbCmmoy5m_" name="Halaman-6">
-    <mxGraphModel dx="2491" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,7 +359,7 @@
         <mxCell id="5_xeAl1YZXMgXmy-Yq4s-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;No&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1049" y="687.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eyv7vc7fw-TOP20MKqiw-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Optimasi Klaster menggunakan Pemprograman Linier&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Eyv7vc7fw-TOP20MKqiw-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Optimasi Klaster menggunakan &lt;i&gt;Pemprograman Linier&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="990" y="395" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CV55hy0OlnGtQMp9FDhV-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Ya&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
