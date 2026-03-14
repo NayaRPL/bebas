@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8" pages="4">
   <diagram name="Halaman-1" id="6RFknrUBay-33bD9F4Q3">
     <mxGraphModel dx="897" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -158,6 +158,81 @@
         </mxCell>
         <mxCell id="x6tOy6HkGXNXUt2H50O5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;line-height: normal;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Variabel Perlakuan&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;line-height: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot; style=&quot;&quot;&gt;Kombinasi Tepung&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tapioka : jewawut (&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;100:0, 75:25, 50:50, 25:75, 0:100)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Lama penggorengan&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; text-align: center;&quot;&gt;2 menit, 4 menit, 6 menit)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="140" width="260" x="420" y="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w__3Wcs4GqDKmU5u3dVs" name="Page-4">
+    <mxGraphModel dx="793" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-12" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0Xfk4FXrlWmjD_APNltb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pemilihan pisang loka pere (tingkat kematangan mengkal)" vertex="1">
+          <mxGeometry height="70" width="160" x="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-23" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0Xfk4FXrlWmjD_APNltb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Analisis Fisik&lt;div&gt;(Daya Patah(Tekstur))&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="530" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-20" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="0Xfk4FXrlWmjD_APNltb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pembuatan adonan pelapis (tepung + air)" vertex="1">
+          <mxGeometry height="60" width="140" x="360" y="356" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-18" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Xfk4FXrlWmjD_APNltb-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pelapisan irisan pisang secara merata" vertex="1">
+          <mxGeometry height="60" width="140" x="360" y="272" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-21" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="0Xfk4FXrlWmjD_APNltb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Penggorengan (deep frying) suhu ±170°C waktu: 2, 4, 6 menit" vertex="1">
+          <mxGeometry height="60" width="140" x="360" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-22" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0Xfk4FXrlWmjD_APNltb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Penirisan dan pendinginan suhu ruang" vertex="1">
+          <mxGeometry height="70" width="140" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-19" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0Xfk4FXrlWmjD_APNltb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Penimbangan bahan pelapis (tapioka : jewawut) (100:0,75;25 50:50,25;75 0:100)" vertex="1">
+          <mxGeometry height="60" width="160" x="170" y="356" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-14" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0Xfk4FXrlWmjD_APNltb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pengirisan pisang ketebalan ±2 mm" vertex="1">
+          <mxGeometry height="60" width="160" x="170" y="272" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-13" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.72727272727275" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pengupasan dan pencucian dengan air mengalir" vertex="1">
+          <mxGeometry height="60" width="160" x="170" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Uji Arganoleptik&lt;div&gt;(warna,aroma,rasa,tekstur)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="530" y="272" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-24" edge="1" parent="1" source="0Xfk4FXrlWmjD_APNltb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605.181818181818" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xfk4FXrlWmjD_APNltb-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Analisis Kimia&lt;div&gt;(Kadar air,kadar protein,kadar serat)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="530" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
