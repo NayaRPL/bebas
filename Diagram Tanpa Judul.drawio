@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="29.6.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" pages="5">
   <diagram name="Halaman-1" id="6RFknrUBay-33bD9F4Q3">
     <mxGraphModel dx="897" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f9r-wQTqNjphMjeO_uaH" name="Page-5">
-    <mxGraphModel dx="1342" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2867" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
         <mxCell id="n3ad-rfMrrnNh2X9kXls-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;Start&lt;/i&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="300" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-14" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="n3ad-rfMrrnNh2X9kXls-6">
+        <mxCell id="Wk-yIBJNwo6vEMs-obe2-2" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Wk-yIBJNwo6vEMs-obe2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;i&gt;Input&lt;/i&gt;&lt;div&gt;(CCTV/HP)&lt;/div&gt;" vertex="1">
@@ -258,34 +258,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Face Detection&lt;/i&gt; + CNN&amp;nbsp; &lt;i&gt;Recognition&lt;/i&gt;" vertex="1">
-          <mxGeometry height="60" width="230" x="245" y="232" as="geometry" />
+          <mxGeometry height="60" width="230" x="245" y="331" as="geometry" />
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-18" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Database Matching&lt;/i&gt;" vertex="1">
-          <mxGeometry height="60" width="185" x="267.5" y="332" as="geometry" />
+          <mxGeometry height="60" width="185" x="267.5" y="431" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-19" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-19" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="624" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Gesopital Mapping&lt;/i&gt;&lt;div&gt;(K-Means/DBSCAN)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="185" x="267.5" y="432" as="geometry" />
+          <mxGeometry height="60" width="185" x="267.5" y="531" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-22" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="684" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Risk Analysis&lt;/i&gt;&lt;div&gt;&lt;i&gt;(Rule-Based, Random Forest, Anomaly Detection)&lt;/i&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="210" y="525" as="geometry" />
+          <mxGeometry height="60" width="300" x="210" y="623" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-23" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-23" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="809" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;i&gt;Output&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;(Warning System)&lt;/i&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="280" y="620" as="geometry" />
+          <mxGeometry height="60" width="160" x="280" y="719" as="geometry" />
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;End&lt;/i&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="300" y="710" as="geometry" />
+          <mxGeometry height="50" width="120" x="300" y="808" as="geometry" />
+        </mxCell>
+        <mxCell id="Wk-yIBJNwo6vEMs-obe2-3" edge="1" parent="1" source="Wk-yIBJNwo6vEMs-obe2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wk-yIBJNwo6vEMs-obe2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Preprocessing&amp;nbsp;&lt;/i&gt;&lt;div&gt;(Validasi Data)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="245" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
