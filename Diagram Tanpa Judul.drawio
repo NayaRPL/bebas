@@ -238,66 +238,56 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f9r-wQTqNjphMjeO_uaH" name="Page-5">
-    <mxGraphModel dx="2867" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n3ad-rfMrrnNh2X9kXls-12" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;Start&lt;/i&gt;" vertex="1">
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="300" y="40" as="geometry" />
         </mxCell>
         <mxCell id="Wk-yIBJNwo6vEMs-obe2-2" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Wk-yIBJNwo6vEMs-obe2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;i&gt;Input&lt;/i&gt;&lt;div&gt;(CCTV/HP)&lt;/div&gt;" vertex="1">
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;i&gt;&lt;b&gt;Input&lt;/b&gt;&lt;/i&gt;&lt;div&gt;(CCTV/HP)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="280" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-15" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-8">
+        <mxCell id="OP0sbwaqGl7KH414ygKG-1" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Face Detection&lt;/i&gt; + CNN&amp;nbsp; &lt;i&gt;Recognition&lt;/i&gt;" vertex="1">
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;Geospatial Processing&lt;/b&gt;&lt;/i&gt;&lt;div&gt;(GPS, GIS, K-Means/DBSCAN)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="230" x="245" y="331" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-18" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-9">
+        <mxCell id="OP0sbwaqGl7KH414ygKG-5" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OP0sbwaqGl7KH414ygKG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Database Matching&lt;/i&gt;" vertex="1">
-          <mxGeometry height="60" width="185" x="267.5" y="431" as="geometry" />
-        </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-19" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="624" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Gesopital Mapping&lt;/i&gt;&lt;div&gt;(K-Means/DBSCAN)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="185" x="267.5" y="531" as="geometry" />
-        </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="684" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Risk Analysis&lt;/i&gt;&lt;div&gt;&lt;i&gt;(Rule-Based, Random Forest, Anomaly Detection)&lt;/i&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="210" y="623" as="geometry" />
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;Risk Analysis&lt;/b&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;(Rule-Based, Random Forest, Anomaly Detection)&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="210" y="430" as="geometry" />
         </mxCell>
         <mxCell id="n3ad-rfMrrnNh2X9kXls-23" edge="1" parent="1" source="n3ad-rfMrrnNh2X9kXls-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="809" as="targetPoint" />
+            <mxPoint x="360" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;i&gt;Output&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;(Warning System)&lt;/i&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="280" y="719" as="geometry" />
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;&lt;i&gt;&lt;b&gt;Action&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;(Desicion Support)&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="280" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="n3ad-rfMrrnNh2X9kXls-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;End&lt;/i&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="300" y="808" as="geometry" />
+        <mxCell id="n3ad-rfMrrnNh2X9kXls-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;End&lt;/b&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="300" y="718" as="geometry" />
         </mxCell>
         <mxCell id="Wk-yIBJNwo6vEMs-obe2-3" edge="1" parent="1" source="Wk-yIBJNwo6vEMs-obe2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wk-yIBJNwo6vEMs-obe2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Preprocessing&amp;nbsp;&lt;/i&gt;&lt;div&gt;(Validasi Data)&lt;/div&gt;" vertex="1">
+        <mxCell id="Wk-yIBJNwo6vEMs-obe2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;Face Recognition&amp;nbsp;&lt;/b&gt;&lt;/i&gt;&lt;div&gt;(MTCNN, CNN, &lt;i&gt;Similarity Matching&lt;/i&gt;)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="230" x="245" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="OP0sbwaqGl7KH414ygKG-4" edge="1" parent="1" source="OP0sbwaqGl7KH414ygKG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n3ad-rfMrrnNh2X9kXls-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OP0sbwaqGl7KH414ygKG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;Visualization&lt;/b&gt;&lt;/i&gt;&lt;div&gt;(&lt;i&gt;Dashboard System&lt;/i&gt;)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="245" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
